@@ -1,0 +1,2 @@
+/Users/benjaminnguyen/fitness_tracker/fitness_tracker/android/app/.cxx/RelWithDebInfo/1i6y5h3k/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/benjaminnguyen/fitness_tracker/fitness_tracker/android/app/.cxx/RelWithDebInfo/1i6y5h3k/armeabi-v7a/CMakeFiles/rebuild_cache.dir
